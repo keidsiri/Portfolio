@@ -1,6 +1,6 @@
 # Welcome to my Portfolio
 
-By Kate Kiatsiri
+By _Kate Kiatsiri_
 
 A simple Javascript for hotle reosrt website.
 
@@ -19,7 +19,7 @@ This website is my personal portfolio about myself. Including my background, edu
 
 
 ## Known bugs
-* No bugs found
+* _No bugs found_
 
 ## License
 MIT License
