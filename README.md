@@ -15,7 +15,7 @@ This website is my personal portfolio about myself. Including my background, edu
 ## Set up/installation requirement
 * No need to set up or install repository on your desktop 
 * Internet required
-* Please <a href="https://github.com/keidsiri/animal-shelter.git">click</a> to visit my website.
+* Please <a href="https://github.com/keidsiri/Portfolio/blob/main/index.html">click</a> to visit my website.
 
 
 ## Known bugs
