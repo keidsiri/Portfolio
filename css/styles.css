@@ -5,9 +5,25 @@ h1 {
 
 .intro {
   text-decoration: cornflowerblue;
+  text-align: center;
 }
 
 body {
   background-image: url(https://images.unsplash.com/photo-1537526045572-fca8beed2a4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1742&q=80);
   background-color:darkgrey;
+}
+
+img {
+  float: left;
+  width: 50%;
+  background-color: darkgrey;
+}
+
+.column {
+  width: 100px;
+  float: left;
+}
+
+.col-md-4 {
+  float: left;
 }
