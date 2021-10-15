@@ -27,6 +27,8 @@ img {
 p {
   font-family: sans-serif;
   font-style:arial;
+  animation-duration: 3s;
+  animation-name: slidein;
 }
 
 .column {
@@ -36,6 +38,12 @@ p {
 
 .col-md-4 {
   float: left;
+}
+
+.col-md-4 h2 {
+  color:rebeccapurple;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
 }
 
 .welcome {
