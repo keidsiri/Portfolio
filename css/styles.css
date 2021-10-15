@@ -5,18 +5,23 @@ h1 {
 
 .intro {
   text-decoration: cornflowerblue;
-  text-align: center;
+  text-align:justify;
+  background-color: ivory;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
 }
 
 body {
   background-image: url(https://images.unsplash.com/photo-1537526045572-fca8beed2a4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1742&q=80);
-  background-color:darkgrey;
+
 }
 
 img {
-  float: left;
-  width: 50%;
-  background-color: darkgrey;
+  float:inherit;
+  position: relative;
+  width: 300px;
+  height: 300px;
 }
 
 .column {
