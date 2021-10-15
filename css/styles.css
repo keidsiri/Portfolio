@@ -44,3 +44,8 @@ p {
   font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
+
+#end {
+  text-shadow: 1px 2px 2px #1C6EA4;
+  text-align: center;
+}
