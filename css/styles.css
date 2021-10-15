@@ -5,11 +5,11 @@ h1 {
 
 .intro {
   text-decoration: cornflowerblue;
-  text-align:justify;
+  text-align:left;
   background-color: ivory;
-  margin: 12px;
+  margin: 2px;
   border: 2px solid green;
-  padding: 4px;
+  padding: 10px;
 }
 
 body {
@@ -18,10 +18,15 @@ body {
 }
 
 img {
-  float:inherit;
+  align-content:center;
   position: relative;
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 250px;
+}
+
+p {
+  font-family: sans-serif;
+  font-style:arial;
 }
 
 .column {
@@ -31,4 +36,11 @@ img {
 
 .col-md-4 {
   float: left;
+}
+
+.welcome {
+  color:rgb(18, 57, 88);
+  font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
