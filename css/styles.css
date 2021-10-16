@@ -2,7 +2,6 @@ h1 {
   text-align: center;
 }
 
-
 .intro {
   text-decoration: cornflowerblue;
   text-align:left;
@@ -13,7 +12,7 @@ h1 {
 }
 
 body {
-  background-image: url(https://images.unsplash.com/photo-1537526045572-fca8beed2a4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1742&q=80);
+  background-image: url(https://raw.githubusercontent.com/jpchateau/Interactive-Image/master/docs/_static/background.jpg);
 
 }
 
@@ -36,7 +35,8 @@ p {
 
 .col-md-4 {
   float: left;
-  opacity: 0.75;
+  shape-image-threshold: ;
+  opacity: 0.92;
 }
 
 .col-md-4 h2 {
