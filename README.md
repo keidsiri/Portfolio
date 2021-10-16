@@ -5,9 +5,9 @@ By _Kate Kiatsiri_
 A simple Javascript for hotle reosrt website.
 
 ## Technologies used
-  * HTML
-  * CSS
-  * Bootstrap
+  1. HTML
+  2. CSS
+  3. Bootstrap
 
 ## Description
 This website is my personal portfolio about myself. Including my background, education , job experience also my personal current interests , hobbies and skills. I hope you can get to know me a little better from this website https://github.com/keidsiri
@@ -16,7 +16,6 @@ Please <a href="https://github.com/keidsiri/Portfolio/blob/main/index.html">clic
 ## Set up/installation requirement
 * No need to set up or install repository on your desktop 
 * Internet required
-
 
 
 ## Known bugs

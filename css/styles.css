@@ -38,6 +38,7 @@ p {
 
 .col-md-4 {
   float: left;
+  opacity: 0.75;
 }
 
 .col-md-4 h2 {
