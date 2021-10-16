@@ -11,11 +11,12 @@ A simple Javascript for hotle reosrt website.
 
 ## Description
 This website is my personal portfolio about myself. Including my background, education , job experience also my personal current interests , hobbies and skills. I hope you can get to know me a little better from this website https://github.com/keidsiri
+Please <a href="https://github.com/keidsiri/Portfolio/blob/main/index.html">click</a> to visit my website.
 
 ## Set up/installation requirement
 * No need to set up or install repository on your desktop 
 * Internet required
-* Please <a href="https://github.com/keidsiri/Portfolio/blob/main/index.html">click</a> to visit my website.
+
 
 
 ## Known bugs
