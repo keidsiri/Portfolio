@@ -17,6 +17,13 @@ h1 {
   animation-iteration-count: 5;
 }
 
+.card-title {
+  font:bold;
+  font-size:32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color:mediumaquamarine;
+}
+
 .intro {
   text-decoration: cornflowerblue;
   text-align:left;
