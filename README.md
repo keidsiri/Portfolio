@@ -2,7 +2,7 @@
 
 By _Kate Kiatsiri_
 
-A simple Javascript for hotle reosrt website.
+A simple Javascript for hotel reosrt website.
 
 ## Technologies used
   1. HTML
@@ -10,18 +10,24 @@ A simple Javascript for hotle reosrt website.
   3. Bootstrap
 
 ## Description
-This website is my personal portfolio about myself. Including my background, education , job experience also my personal current interests , hobbies and skills. I hope you can get to know me a little better.Please <a href="https://github.com/keidsiri/Portfolio/blob/main/index.html">click here </a> to visit my website.
+This website is my personal portfolio about myself. Including my background, education , job experience also my personal current interests , hobbies and skills. I hope you can get to know me a little better.<br>Please check it out my website https://keidsiri.github.io/Portfolio/ or <a href=" https://keidsiri.github.io/Portfolio/"> click here </a> to visit my github to see my projects I have done so far.
 
 ## Set up/installation requirement
-* No need to set up or install repository on your desktop 
-* Internet required
+* Code editor required (such as Visual Studio Code) and Github account.
+* Navigate this address https://github.com/keidsiri/Portfolio into your browser or 
+<a href="https://github.com/keidsiri/Portfolio"> click here! </a>
+* Clone this repository to your desktop.
+* Navigate to the top of disrectory
+* Connect to your Github repository
+* Open files in VS code to view or edit
+* Open file name _index.html_ in your browser to view this project.
 
 
 ## Known bugs
-* _No bugs found_
+* _No known issues_
 
 ## License
-MIT License
+MIT License _(https://opensource.org/licenses/MIT)_
 
 Copyright (c) 2021 Kate Kiatsiri
 
@@ -42,3 +48,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+_If you have any questions please feel free to [Contact me](mailto:keidsiri@gmail.com)
